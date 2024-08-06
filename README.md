@@ -67,5 +67,18 @@ If unsuccessful, the user is prompted to re-enter their credentials.<br>
 The user logs out, which ends their session.<br>
 They are redirected to the logout confirmation page and can navigate back to the welcome or login page.<br>
 
+### Screenshots:
+#### Home Page
+![Screenshot](Screenshots/Screenshot1.png)
+
+#### Login Page
+![Screenshot](Screenshots/Screenshot2.png)
+
+#### Registration Page
+![Screenshot](Screenshots/Screenshot3.png)
+
+#### Welcome Page
+![Screenshot](Screenshots/Screenshot4.png)
+
 ### Conclusion:
 This project demonstrates a comprehensive understanding of web development using JSP, Servlets, and MySQL. It covers the full lifecycle of user authentication, from registration to login and logout, with secure handling of user data and session management.
